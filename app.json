@@ -1,13 +1,13 @@
 {
   "name": "Catuserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "description": "A simple Telegram userbot based on Telethon .",
+  "logo": "https://telegra.ph/file/1d8112648c0ec7c51f201.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/NekkoYato/catuserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
