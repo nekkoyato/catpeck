@@ -1,7 +1,7 @@
 FROM NekkoYato/catuserbot:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/NekkoYato/catuserbot.git /root/userbot
+RUN git clone https://github.com/RyanDragon69/catuserbot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
